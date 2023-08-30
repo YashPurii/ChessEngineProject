@@ -10,7 +10,7 @@
 ## How to Use
 1. Clone the repository.
 2. Navigate to the 'ChessEngineProject' directory.
-3. Run to start the engine.
+3. Run 'Chess_Engine' to start the engine.
 4. Enjoy playing against the engine!
 
 ## Algorithms
